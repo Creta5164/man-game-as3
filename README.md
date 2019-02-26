@@ -32,7 +32,8 @@ y=f(x)님의 플랫포머 원작을 ActionScript 3.0에 가능한 객체지향�
 2020년에서야 사라질 플래시의 운명보다 1년 일찍 끝을 보게됐습니다.
 
 ![게임위_신문_첨부](https://cdn.gamemeca.com/data_center/159/268/20190225173048.jpg)  
-[게임메카 기사 - 게임위 ˝자작 플래시게임도 심의 받는 것이 원칙˝](https://www.gamemeca.com/view.php?gid=1531898)
+[게임메카 기사 - 게임위 ˝자작 플래시게임도 심의 받는 것이 원칙˝](https://www.gamemeca.com/view.php?gid=1531898)  
+[게임 포커스 기사 - 초중고생 게임개발 꿈 짓밟는 게임산업법... 게임위, 학생들 연습작품 불법 규정 '배포 차단'](http://gamefocus.co.kr/detail.php?number=91372)
 
 ![AGLASS님_트윗_인용](https://pbs.twimg.com/media/D0Qg98jVsAIaXYi?format=jpg&name=900x900)  
 [AGLASS님의 플래시365 캡쳐본](https://twitter.com/sohnoh91/status/1100041497720741888)
