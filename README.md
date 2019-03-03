@@ -1,4 +1,6 @@
 # man-game-as3
+
+![프리뷰](./preview.gif)  
 y=f(x)님의 플랫포머 원작을 ActionScript 3.0에 가능한 객체지향적으로 이식한 버전입니다.
 
 원저작권은 y=f(x)님에게 있습니다.  
